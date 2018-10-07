@@ -16,5 +16,5 @@ def lone_sum(a, b, c):
     return a
   if (c == a) and (a != b):
     return b
-  
 
+  ### OK
